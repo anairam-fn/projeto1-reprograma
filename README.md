@@ -2,6 +2,8 @@
 
 A system that allows to search book by category, sort books by number of pages, search for recommended books and search for unread books.
 
+![menu](./menu.jpeg)
+
 ##### Tecnologies Used:
 
 * JavaScript
@@ -11,5 +13,6 @@ A system that allows to search book by category, sort books by number of pages, 
 
 ##### To run this project:
 
-Use `node app.js`
+ - install the dependencies: `npm install` 
+ - run: `npm start`
 
