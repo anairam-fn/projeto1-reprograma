@@ -4,7 +4,7 @@ A system that allows to search book by category, sort books by number of pages, 
 
 ![menu](./menu.jpeg)
 
-##### Tecnologies Used:
+##### Technologies Used:
 
 * JavaScript
 * Node.js
